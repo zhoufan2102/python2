@@ -1,4 +1,4 @@
-
+123456
 # 项目入口
 
 from view import View
