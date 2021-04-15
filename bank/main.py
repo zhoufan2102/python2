@@ -12,7 +12,7 @@ def main():
     # 登录
     ret = View.login()
     if not ret:
-        print('=> 登录失败!')
+        print('=> 失败!')
         return
 
     # 实现功能
