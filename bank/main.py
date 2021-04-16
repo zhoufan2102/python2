@@ -1,4 +1,5 @@
 123456
+有抑郁症
 # 项目入口
 
 from view import View
